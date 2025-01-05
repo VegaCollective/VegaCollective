@@ -64,7 +64,7 @@ All contributions are publicly tracked on-chain and used exclusively for ecosyst
 
 ```bash
 git clone https://github.com/elizaos/eliza-starter.git
-cd eliza-starter
+cd VEGA-starter
 cp .env.example .env
 pnpm i && pnpm build && pnpm start
 ```
