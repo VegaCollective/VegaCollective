@@ -89,7 +89,7 @@ git clone https://github.com/elizaos/eliza.git
 git checkout $(git describe --tags --abbrev=0)
 ```
 
-### Start Eliza with Gitpod
+### Start VEGA with Gitpod
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/elizaos/eliza/tree/main)
 
@@ -104,7 +104,7 @@ cp .env.example .env
 Note: .env is optional. If you're planning to run multiple distinct agents, you can pass secrets through the character JSON
 Note: .env is optional. If you're planning to run multiple distinct agents, you can pass secrets through the character JSON
 
-### Automatically Start Eliza
+### Automatically Start VEGA
 
 This will run everything to set up the project and start the bot with the default character.
 
@@ -122,7 +122,7 @@ sh scripts/start.sh
 3. Connect with X (Twitter)
     - change `"clients": []` to `"clients": ["twitter"]` in the character file to connect with X
 
-### Manually Start Eliza
+### Manually Start VEGA
 
 ```bash
 pnpm i
