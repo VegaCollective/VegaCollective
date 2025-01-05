@@ -78,7 +78,7 @@ pnpm start:client
 
 Then read the [Documentation](https://elizaos.github.io/eliza/) to learn how to customize your Eliza.
 
-### Manually Start Eliza (Only recommended if you know what you are doing)
+### Manually Start VEGA (Only recommended if you know what you are doing)
 
 ```bash
 # Clone the repository
